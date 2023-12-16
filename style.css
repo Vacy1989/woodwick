@@ -1,0 +1,193 @@
+.search {
+  background-image: url("");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: white;
+  background-color: black;
+  height: 70px;
+}
+.off {
+  background-image: url(https://yankeecandle.scene7.com/is/image/YankeeCandle/11.01.23_WW_HP_Slim-Banner_Desktp_BG?fmt=jpeg);
+  background-size: cover;
+  height: 300px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+.off-img {
+  width: 500px;
+  padding-top: 50px;
+}
+.txt-in {
+  width: 35%;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin-left: 33%;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 50px;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.list-li {
+  padding: 1em;
+}
+.txt {
+  color: white;
+}
+.parent {
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+}
+.text-over {
+  position: absolute;
+  top: 100px;
+  right: 2px;
+  text-align: left;
+  margin-right: 5%;
+  margin-left: 80%;
+}
+.btn {
+  width: 150px;
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.winter {
+  padding-top: 50px;
+  position: relative;
+  text-align: center;
+  color: white;
+  padding-bottom: 50px;
+}
+.winter-txt {
+  position: absolute;
+  bottom: 40%;
+  right: 7%;
+  text-align: left;
+}
+.txt-two {
+  width: 60%;
+}
+.half-img {
+  background-color: black;
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+}
+.flower-img {
+  float: right;
+  width: 60%;
+}
+.two-half {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  background-color: black;
+}
+.search {
+  width: 160px;
+  height: 30px;
+}
+#spot {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.img-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid gainsboro;
+  justify-content: flex-start;
+  padding-bottom: 15px;
+  box-shadow: 1px 1px 1px 1px gainsboro;
+}
+.images {
+  width: 250px;
+}
+.input {
+  width: 50px;
+  height: 30px;
+}
+.btn-price {
+  width: 160px;
+  height: 36px;
+  background-color: #1b806d;
+  color: white;
+}
+.combo {
+  display: flex;
+  flex-direction: row;
+}
+.bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#family {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+}
+.three {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+}
+#title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+}
+#back-to {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 30px;
+}
